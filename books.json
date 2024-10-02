@@ -1,52 +1,27 @@
 [
-  {
-    "notebook": "Dell Inspiron",
-    "votos": 3000,
-    "comentario": "Dell Inspiron é meu preferido! Sempre tem em promoção."
-  },
-  {
-    "notebook": "HP Pavilion",
-    "votos": 2200,
-    "comentario": "Nada como um HP Pavilion para trabalho e jogos!"
-  },
-  {
-    "notebook": "Acer Aspire",
-    "votos": 1800,
-    "comentario": "Adoro o Aspire, é prático e potente."
-  },
-  {
-    "notebook": "Lenovo IdeaPad",
-    "votos": 1500,
-    "comentario": "Os IdeaPads têm um ótimo custo-benefício!"
-  },
-  {
-    "notebook": "MacBook Air",
-    "votos": 1300,
-    "comentario": "Um laptop leve e sempre elegante."
-  },
-  {
-    "notebook": "Asus ZenBook",
-    "votos": 1000,
-    "comentario": "Perfeito para quem busca portabilidade!"
-  },
-  {
-    "notebook": "Samsung Galaxy Book",
-    "votos": 800,
-    "comentario": "Uma opção versátil e bonita."
-  },
-  {
-    "notebook": "Microsoft Surface",
-    "votos": 700,
-    "comentario": "Adoro a flexibilidade do Surface!"
-  },
-  {
-    "notebook": "Razer Blade",
-    "votos": 600,
-    "comentario": "Ótimo para gamers, com performance excelente."
-  },
-  {
-    "notebook": "Chromebook",
-    "votos": 500,
-    "comentario": "Uma opção leve e ideal para navegação."
-  }
+    {
+        "notebook": "Notebook A",
+        "votos": 120,
+        "comentario": "Ótimo desempenho e leve."
+    },
+    {
+        "notebook": "Notebook B",
+        "votos": 95,
+        "comentario": "Bom custo-benefício."
+    },
+    {
+        "notebook": "Notebook C",
+        "votos": 60,
+        "comentario": "Ideal para tarefas simples."
+    },
+    {
+        "notebook": "Notebook D",
+        "votos": 150,
+        "comentario": "Excelente para jogos e design."
+    },
+    {
+        "notebook": "Notebook E",
+        "votos": 80,
+        "comentario": "Bateria duradoura."
+    }
 ]

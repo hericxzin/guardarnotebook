@@ -1,0 +1,22 @@
+[
+    {
+        "notebook": "Notebook A",
+        "votos": 120
+    },
+    {
+        "notebook": "Notebook B",
+        "votos": 95
+    },
+    {
+        "notebook": "Notebook C",
+        "votos": 60
+    },
+    {
+        "notebook": "Notebook D",
+        "votos": 150
+    },
+    {
+        "notebook": "Notebook E",
+        "votos": 80
+    }
+]
